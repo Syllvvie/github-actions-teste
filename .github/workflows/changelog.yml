@@ -26,3 +26,11 @@ jobs:
             git log --pretty=format:"- %ad | %s (%an) [%h]" --date=short
           } > CHANGELOG.md
           cat CHANGELOG.md
+
+      - name: Enviar CHANGELOG.md para o repositório
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@://github.com"
+          git add CHANGELOG.md
+          git commit -m "docs: atualiza CHANGELOG.md [skip ci]"
+          git push
