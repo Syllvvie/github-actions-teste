@@ -1,7 +1,9 @@
 # Changelog
 
-Gerado automaticamente em 16/10/2026 00:55
+Gerado automaticamente em 16/10/2026 00:56
 
+- 2026-10-15 | fix: Rename steps in GitHub Actions workflow (Syllvvie) [7ec1762]
+- 2026-10-16 | docs: atualiza CHANGELOG.md [skip ci] (github-actions[bot]) [8da5bd1]
 - 2026-10-15 | fix: Rename CI workflow to hello-world (Syllvvie) [a429949]
 - 2026-10-16 | docs: atualiza CHANGELOG.md [skip ci] (github-actions[bot]) [59d7338]
 - 2026-10-15 | fix: Modify version input description in workflow (Syllvvie) [238c063]
