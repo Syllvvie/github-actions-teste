@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       version:
-        description: 'Número da versão (ex: v1.0.0)'
+        description: 'Número da versão'
         required: true
         default: 'v1.0.0'
 
