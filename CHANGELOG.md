@@ -1,7 +1,9 @@
 # Changelog
 
-Gerado automaticamente em 16/10/2026 00:41
+Gerado automaticamente em 16/10/2026 00:51
 
+- 2026-10-15 | feat: Update GitHub Actions workflow for version input (Syllvvie) [a88254a]
+- 2026-10-16 | docs: atualiza CHANGELOG.md [skip ci] (github-actions[bot]) [c84d458]
 - 2026-10-15 | feat: Add test content to Receita.md (Syllvvie) [e05d332]
 - 2026-10-16 | docs: atualiza CHANGELOG.md [skip ci] (github-actions[bot]) [84222f7]
 - 2026-10-15 | feat: Add GitHub Actions workflow for zip and release (Syllvvie) [62dbd0d]
