@@ -1,7 +1,9 @@
 # Changelog
 
-Gerado automaticamente em 16/10/2026 00:20
+Gerado automaticamente em 16/10/2026 00:38
 
+- 2026-10-15 | feat: Add GitHub Actions workflow for zip and release (Syllvvie) [62dbd0d]
+- 2026-10-16 | docs: atualiza CHANGELOG.md [skip ci] (github-actions[bot]) [4f814e5]
 - 2026-10-15 | Fix README formatting and remove extra line (Syllvvie) [a5a9fd4]
 - 2026-10-16 | docs: atualiza CHANGELOG.md [skip ci] (github-actions[bot]) [77314ed]
 - 2026-10-15 | Update README.md with additional content (Syllvvie) [b9c9935]
