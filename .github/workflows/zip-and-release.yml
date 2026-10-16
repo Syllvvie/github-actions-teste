@@ -18,10 +18,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Zil folder
+      - name: Zip folder
         run: git archive --format=zip -o release.zip HEAD
 
-      - name: Criar GitHub Release
+      - name: Create GitHub Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
