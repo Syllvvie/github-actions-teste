@@ -1,7 +1,9 @@
 # Changelog
 
-Gerado automaticamente em 22/10/2026 22:26
+Gerado automaticamente em 29/10/2026 18:08
 
+- 2026-10-29 | Update README with project details and workflows (Syllvvie) [6f0a6f9]
+- 2026-10-22 | docs: update CHANGELOG.md [skip ci] (github-actions[bot]) [4d81028]
 - 2026-10-22 | Fix commit message for CHANGELOG.md update (Syllvvie) [2267567]
 - 2026-10-16 | docs: atualiza CHANGELOG.md [skip ci] (github-actions[bot]) [c8d7a8e]
 - 2026-10-15 | fix: Rename steps in GitHub Actions workflow (Syllvvie) [7ec1762]
